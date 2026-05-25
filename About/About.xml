@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Hide UI</name>
+    <packageId>avihu.hideui</packageId>
+    <author>avihu</author>
+    <description>Hides all menus and gizmo bar while middle mouse is held (camera dragging).</description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+</ModMetaData>
